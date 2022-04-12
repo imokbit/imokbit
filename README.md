@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imokbit
 - 👀 I’m interested in ... web dev and flutter app dev
 - 🌱 I’m currently learning typescript and elixir (yeah i know )
-- 📫 Reach me via mohit.bash@gmail.com or @mohokr on twitter 
+- 📫 Reach me via mohit.bash@gmail.com or [@mohokr](https://twitter.com/mohokr) on twitter 
 
 <!---
 imokbit/imokbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
